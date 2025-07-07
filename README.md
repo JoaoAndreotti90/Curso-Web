@@ -22,9 +22,6 @@ Exemplos de uso do Flexbox para layout responsivo e alinhamento de elementos.
 ### 🔹 introducao-imagens/
 Manipulação de imagens, formatos variados, posicionamento e uso de planos de fundo.
 
-### 🔹 aprendendo/
-Outros exercícios diversos com CSS, layout, estruturação e prática com Flexbox.
-
 ---
 
 ## 🔧 Tecnologias Usadas
