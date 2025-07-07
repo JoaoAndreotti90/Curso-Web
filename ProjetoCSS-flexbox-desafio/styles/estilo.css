@@ -1,0 +1,54 @@
+html,
+body {
+    height: 100%;
+
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(../imagens/bg-2.jpg);
+}
+.hero-content h1{
+    padding-top: 100px;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+}
+.ola{
+    text-align: center;
+}
+.ola p{
+    color: white;
+    background-color: rgba(0,0,0,0.7);
+    font-size: 18px;
+    display: inline-block;
+    padding: 16px;
+    border-bottom: 2px solid;
+    margin-bottom: 100px;
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    width: 860px;
+    margin: auto ;
+    padding: 16px;
+    background-color: white;
+      
+}
+.card{
+    flex-basis: 250px;
+    flex-grow: 1;
+}
+.card img{
+    width: 100%;
+    display: block;
+}
+.card p{
+    margin: 0;
+    color: white;
+    background-color: black;
+    
+}
